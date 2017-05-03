@@ -1,5 +1,5 @@
 # CS109B_MovieGenre_Prediction
-This project was performed as part of CS109b - Advanced Data Science project.  The object was to predict movie genre using Deep Learning
+This project was performed as part of Harvard CS109b - Advanced Data Science course. The objective is to predict movie genre using Deep Learning
 
 ipynb - This folder contains all jupyter notebooks used for the project
 
