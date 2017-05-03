@@ -10,18 +10,22 @@ All jupyter notebooks are written using Python except unless mentioned:
 										generated brightness level from poster images, 
 										bag of words from IMDB's keyword field,
 										Class generation of custom genre
+				
 				input: IMDB and TMDB APIs
+				
 				output: movies_allfeaturesfinal.csv
 
 4. Milestone3_02_Transform_Metadata.ipynb: This is written in R. 
 										   This notebook takes the dataset of all features
 										   and extracts only needed features with 
 										   approprieate filters
+				
 				input: movies_allfeaturesfinal.csv (file included in dataset)
+				
 				output: unfiltered_train_data.csv
 				        unfiltered_test_data.csv
-						filtered_train_data.csv (unused)
-						filtered_test_data.csv (unused)
+					filtered_train_data.csv (unused)
+					filtered_test_data.csv (unused)
 
 5. Milestone3_03_TraditionalModels.ipynb: This is written in R.
 										  This notebook takes in unfiltered data from 
